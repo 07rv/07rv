@@ -1,4 +1,3 @@
-![logo](https://github.com/07rv/07rv/blob/main/Github-Banner.avif)
 <h1 align="center">Hi, I'm Rohit Verma</h1>
 <h3 align="center">Empowering businesses with seamless full-stack solutions.</h3>
 
